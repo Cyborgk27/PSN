@@ -1,0 +1,15 @@
+C:\Users\VIAMATICA\source\repos\PSN\PSN.Infrastructure\bin\Debug\net8.0\PSN.Infrastructure.deps.json
+C:\Users\VIAMATICA\source\repos\PSN\PSN.Infrastructure\bin\Debug\net8.0\PSN.Infrastructure.dll
+C:\Users\VIAMATICA\source\repos\PSN\PSN.Infrastructure\bin\Debug\net8.0\PSN.Infrastructure.pdb
+C:\Users\VIAMATICA\source\repos\PSN\PSN.Infrastructure\bin\Debug\net8.0\PSN.Domain.dll
+C:\Users\VIAMATICA\source\repos\PSN\PSN.Infrastructure\bin\Debug\net8.0\PSN.Domain.pdb
+C:\Users\VIAMATICA\source\repos\PSN\PSN.Infrastructure\obj\Debug\net8.0\PSN.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\VIAMATICA\source\repos\PSN\PSN.Infrastructure\obj\Debug\net8.0\PSN.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIAMATICA\source\repos\PSN\PSN.Infrastructure\obj\Debug\net8.0\PSN.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\VIAMATICA\source\repos\PSN\PSN.Infrastructure\obj\Debug\net8.0\PSN.Infrastructure.AssemblyInfo.cs
+C:\Users\VIAMATICA\source\repos\PSN\PSN.Infrastructure\obj\Debug\net8.0\PSN.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\VIAMATICA\source\repos\PSN\PSN.Infrastructure\obj\Debug\net8.0\PSN.Infr.5F817FBC.Up2Date
+C:\Users\VIAMATICA\source\repos\PSN\PSN.Infrastructure\obj\Debug\net8.0\PSN.Infrastructure.dll
+C:\Users\VIAMATICA\source\repos\PSN\PSN.Infrastructure\obj\Debug\net8.0\refint\PSN.Infrastructure.dll
+C:\Users\VIAMATICA\source\repos\PSN\PSN.Infrastructure\obj\Debug\net8.0\PSN.Infrastructure.pdb
+C:\Users\VIAMATICA\source\repos\PSN\PSN.Infrastructure\obj\Debug\net8.0\ref\PSN.Infrastructure.dll

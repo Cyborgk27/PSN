@@ -1,0 +1,12 @@
+C:\Users\VIAMATICA\source\repos\PSN\PSN.Domain\bin\Debug\net8.0\PSN.Domain.deps.json
+C:\Users\VIAMATICA\source\repos\PSN\PSN.Domain\bin\Debug\net8.0\PSN.Domain.dll
+C:\Users\VIAMATICA\source\repos\PSN\PSN.Domain\bin\Debug\net8.0\PSN.Domain.pdb
+C:\Users\VIAMATICA\source\repos\PSN\PSN.Domain\obj\Debug\net8.0\PSN.Domain.csproj.AssemblyReference.cache
+C:\Users\VIAMATICA\source\repos\PSN\PSN.Domain\obj\Debug\net8.0\PSN.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIAMATICA\source\repos\PSN\PSN.Domain\obj\Debug\net8.0\PSN.Domain.AssemblyInfoInputs.cache
+C:\Users\VIAMATICA\source\repos\PSN\PSN.Domain\obj\Debug\net8.0\PSN.Domain.AssemblyInfo.cs
+C:\Users\VIAMATICA\source\repos\PSN\PSN.Domain\obj\Debug\net8.0\PSN.Domain.csproj.CoreCompileInputs.cache
+C:\Users\VIAMATICA\source\repos\PSN\PSN.Domain\obj\Debug\net8.0\PSN.Domain.dll
+C:\Users\VIAMATICA\source\repos\PSN\PSN.Domain\obj\Debug\net8.0\refint\PSN.Domain.dll
+C:\Users\VIAMATICA\source\repos\PSN\PSN.Domain\obj\Debug\net8.0\PSN.Domain.pdb
+C:\Users\VIAMATICA\source\repos\PSN\PSN.Domain\obj\Debug\net8.0\ref\PSN.Domain.dll

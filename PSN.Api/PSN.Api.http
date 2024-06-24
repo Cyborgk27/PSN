@@ -1,0 +1,6 @@
+@PSN.Api_HostAddress = http://localhost:5183
+
+GET {{PSN.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

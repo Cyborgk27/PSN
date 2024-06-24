@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SPmcMuKBFh/ZbM9ssIRuQRNN8wCAWLF2SYCzbyePe9c=",
+  "Source": "PSN.Api",
+  "BasePath": "_content/PSN.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
